@@ -2,7 +2,7 @@
 
 #### I am currently pursuing Computer Engineering.
 
-####Languages
+#### Languages
 C Programming
 Java
 Python
